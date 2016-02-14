@@ -2,15 +2,15 @@
 
 ## With no modifers
 
-![alt tag](https://raw.githubusercontent.com/ksint/MacKeyboardLayoutGreekLetters/master/image/no modifiers.png)
+![alt tag](https://raw.githubusercontent.com/ksint/MacKeyboardLayoutGreekLetters/master/images/no modifiers.png)
 
 ## Holding option key
 
-![alt tag](https://raw.githubusercontent.com/ksint/MacKeyboardLayoutGreekLetters/master/image/option.png)
+![alt tag](https://raw.githubusercontent.com/ksint/MacKeyboardLayoutGreekLetters/master/images/option.png)
 
 ## Holding option-shift key
 
-![alt tag](https://raw.githubusercontent.com/ksint/MacKeyboardLayoutGreekLetters/master/image/option shift.png)
+![alt tag](https://raw.githubusercontent.com/ksint/MacKeyboardLayoutGreekLetters/master/images/option shift.png)
 
 ## Installation
 
