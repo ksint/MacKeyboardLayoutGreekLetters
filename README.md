@@ -1,4 +1,4 @@
-# US English keyboard layout with Greek letters accessible for Mac
+# US English keyboard layout with Greek letters for Mac
 
 ## With no modifers
 
