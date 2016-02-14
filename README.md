@@ -1,6 +1,6 @@
 # US English Math keyboard layout for Mac
-##<https://github.com/ksint/MacMathKeyboardLayout>
-by Kyaw Sint <ksint@ksint.com>
+
+by Kyaw Sint <https://github.com/ksint/MacMathKeyboardLayout>
 
 ## With no modifers
 
