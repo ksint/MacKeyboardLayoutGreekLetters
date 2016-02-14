@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <keyboard group="0" id="5000" name="US English Math" maxout="1">
+
+<!-- US English Math Keyboard Layout for Mac by Kyaw Sint
+     https://github.com/ksint/MacMathKeyboardLayout -->
+
 	<layouts>
 		<layout first="0" last="0" modifiers="48" mapSet="312" />
 	</layouts>
@@ -510,7 +514,8 @@
 			<key code="24" output="&#xB1;" />
 			<!-- gap, 25-26 -->
 			<key code="27" output="&#x2261;" />
-			<!-- gap, 28-30 -->
+			<key code="28" output="&#xB0;" />
+			<!-- gap, 29-30 -->
 			<key code="31" output="&#x39F;" />
 			<key code="32" output="&#x398;" />
 			<!-- gap, 33 -->
@@ -604,7 +609,7 @@
 			<key code="25" output="&#x221A;" />
 			<key code="26" output="&#x2203;" />
 			<key code="27" output="&#x2261;" />
-			<key code="28" output="&#xD7;" />
+			<key code="28" output="&#xB0;" />
 			<key code="29" output="&#x2026;" />
 			<!-- gap, 30 -->
 			<key code="31" output="&#x39F;" />
