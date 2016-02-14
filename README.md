@@ -1,4 +1,5 @@
-# US English keyboard layout with Greek letters for Mac
+# US English Math keyboard layout for Mac <https://github.com/ksint/MacMathKeyboardLayout>
+## by Kyaw Sint <ksint@ksint.com>
 
 ## With no modifers
 
@@ -16,7 +17,8 @@
 
 1. Copy to ~/Library/Keyboard Layouts
 2. System Preferences -> Keyboard -> Input Sources
-3. Click the + button and under Others, select US English with Greek letters
+3. Click the + button and under Others, select US English with Math
 4. Select show input menu in menu bar
-5. Click on input menu and choose US English with Greek letters
+5. Click on input menu and choose US English with Math
 
+6. Use with Unixode <https://github.com/olivierverdier/Unixode> or Wolfram Alpha <http://www.wolframalpha.com/>

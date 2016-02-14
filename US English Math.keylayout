@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<keyboard group="0" id="5000" name="US English with Greek letters" maxout="1">
-
-<!-- US English keyboard layout with Greek letters for Mac by Kyaw Sint
-     https://github.com/ksint/MacKeyboardLayoutGreekLetters -->
-
+<keyboard group="0" id="5000" name="US English Math" maxout="1">
 	<layouts>
 		<layout first="0" last="0" modifiers="48" mapSet="312" />
 	</layouts>
@@ -408,13 +404,25 @@
 			<key code="9" output="&#x3C9;" />
 			<!-- gap, 10 -->
 			<key code="11" output="&#x3B2;" />
-			<!-- gap, 12 -->
+			<key code="12" output="&#x2135;" />
 			<key code="13" output="&#x3C2;" />
 			<key code="14" output="&#x3B5;" />
 			<key code="15" output="&#x3C1;" />
 			<key code="16" output="&#x3C5;" />
 			<key code="17" output="&#x3C4;" />
-			<!-- gap, 18-30 -->
+			<key code="18" output="&#x222B;" />
+			<key code="19" output="&#x2211;" />
+			<key code="20" output="&#x3A0;" />
+			<key code="21" output="&#x221E;" />
+			<key code="22" output="&#x2200;" />
+			<key code="23" output="&#x2202;" />
+			<key code="24" output="&#x2248;" />
+			<key code="25" output="&#x221A;" />
+			<key code="26" output="&#x2203;" />
+			<key code="27" output="&#x2260;" />
+			<key code="28" output="&#xD7;" />
+			<key code="29" output="&#x2026;" />
+			<!-- gap, 30 -->
 			<key code="31" output="&#x3BF;" />
 			<key code="32" output="&#x3B8;" />
 			<!-- gap, 33 -->
@@ -425,10 +433,12 @@
 			<key code="38" output="&#x3BE;" />
 			<!-- gap, 39 -->
 			<key code="40" output="&#x3BA;" />
-			<!-- gap, 41-44 -->
+			<!-- gap, 41-42 -->
+			<key code="43" output="&#x2264;" />
+			<key code="44" output="&#xF7;" />
 			<key code="45" output="&#x3BD;" />
 			<key code="46" output="&#x3BC;" />
-			<!-- gap, 47 -->
+			<key code="47" output="&#x2265;" />
 			<key code="48" output="&#x9;" />
 			<key code="49" output="&#xA0;" />
 			<!-- gap, 50 -->
@@ -496,7 +506,11 @@
 			<key code="15" output="&#x3A1;" />
 			<key code="16" output="&#x3A5;" />
 			<key code="17" output="&#x3A4;" />
-			<!-- gap, 18-30 -->
+			<!-- gap, 18-23 -->
+			<key code="24" output="&#xB1;" />
+			<!-- gap, 25-26 -->
+			<key code="27" output="&#x2261;" />
+			<!-- gap, 28-30 -->
 			<key code="31" output="&#x39F;" />
 			<key code="32" output="&#x398;" />
 			<!-- gap, 33 -->
@@ -507,10 +521,12 @@
 			<key code="38" output="&#x39E;" />
 			<!-- gap, 39 -->
 			<key code="40" output="&#x39A;" />
-			<!-- gap, 41-44 -->
+			<!-- gap, 41-42 -->
+			<key code="43" output="&#x27E8;" />
+			<!-- gap, 44 -->
 			<key code="45" output="&#x39D;" />
 			<key code="46" output="&#x39C;" />
-			<!-- gap, 47 -->
+			<key code="47" output="&#x27E9;" />
 			<key code="48" output="&#x9;" />
 			<key code="49" output="&#xA0;" />
 			<!-- gap, 50 -->
@@ -572,13 +588,25 @@
 			<key code="9" output="&#x3A9;" />
 			<!-- gap, 10 -->
 			<key code="11" output="&#x392;" />
-			<!-- gap, 12 -->
+			<key code="12" output="&#x2135;" />
 			<key code="13" output="&#x385;" />
 			<key code="14" output="&#x395;" />
 			<key code="15" output="&#x3A1;" />
 			<key code="16" output="&#x3A5;" />
 			<key code="17" output="&#x3A4;" />
-			<!-- gap, 18-30 -->
+			<key code="18" output="&#x222B;" />
+			<key code="19" output="&#x2211;" />
+			<key code="20" output="&#x3A0;" />
+			<key code="21" output="&#x221E;" />
+			<key code="22" output="&#x2200;" />
+			<key code="23" output="&#x2202;" />
+			<key code="24" output="&#xB1;" />
+			<key code="25" output="&#x221A;" />
+			<key code="26" output="&#x2203;" />
+			<key code="27" output="&#x2261;" />
+			<key code="28" output="&#xD7;" />
+			<key code="29" output="&#x2026;" />
+			<!-- gap, 30 -->
 			<key code="31" output="&#x39F;" />
 			<key code="32" output="&#x398;" />
 			<!-- gap, 33 -->
@@ -589,10 +617,12 @@
 			<key code="38" output="&#x39E;" />
 			<!-- gap, 39 -->
 			<key code="40" output="&#x39A;" />
-			<!-- gap, 41-44 -->
+			<!-- gap, 41-42 -->
+			<key code="43" output="&#x27E8;" />
+			<key code="44" output="&#xF7;" />
 			<key code="45" output="&#x39D;" />
 			<key code="46" output="&#x39C;" />
-			<!-- gap, 47 -->
+			<key code="47" output="&#x27E9;" />
 			<key code="48" output="&#x9;" />
 			<key code="49" output="&#xA0;" />
 			<!-- gap, 50 -->
