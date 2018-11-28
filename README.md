@@ -4,7 +4,7 @@ by Kyaw Sint <https://github.com/ksint/MacMathKeyboardLayout>
 
 ## With no modifers
 
-![alt tag](https://raw.githubusercontent.com/ksint/MacKeyboardLayoutGreekLetters/master/images/no modifiers.png)
+![alt tag](https://raw.githubusercontent.com/ksint/MacKeyboardLayoutGreekLetters/master/images/no%20modifiers.png)
 
 ## Holding option key
 
@@ -12,7 +12,7 @@ by Kyaw Sint <https://github.com/ksint/MacMathKeyboardLayout>
 
 ## Holding option-shift key
 
-![alt tag](https://raw.githubusercontent.com/ksint/MacKeyboardLayoutGreekLetters/master/images/option shift.png)
+![alt tag](https://raw.githubusercontent.com/ksint/MacKeyboardLayoutGreekLetters/master/images/option%20shift.png)
 
 ## Installation
 
